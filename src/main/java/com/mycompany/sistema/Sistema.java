@@ -10,15 +10,9 @@ import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.EntityTransaction;
 import jakarta.persistence.Persistence;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Properties;
-
-import static org.eclipse.persistence.config.PersistenceUnitProperties.*;
-
 /**
  *
- * @author matia
+ * @author matias muro
  */
 public class Sistema {
 
